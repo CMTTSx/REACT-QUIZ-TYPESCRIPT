@@ -15,6 +15,6 @@ Projeto Site de Quiz. Versão Básica para demonstração de habilidade nas tecn
 
 3-CSS
 
-4-AXIOS
+4-FETCH 
 
 ![REACT-QUIZ](https://user-images.githubusercontent.com/85304089/190143761-ac5ecd51-5ef0-42ec-9fd9-08747c9fe290.png)
